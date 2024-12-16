@@ -1,0 +1,1 @@
+Function GetObject() is used to get the object. But it fails when the object is not found. This can be because of incorrect path, or the object might not exist.  Another issue arises when dealing with late binding where the object type is not known at compile time. Errors might not be caught immediately and only show up during runtime. 
