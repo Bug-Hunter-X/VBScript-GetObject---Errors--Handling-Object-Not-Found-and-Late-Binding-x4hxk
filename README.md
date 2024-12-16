@@ -1,0 +1,1 @@
+This repository demonstrates common errors encountered when using the GetObject() function in VBScript, particularly when dealing with scenarios where the object is not found and situations involving late binding.  The bug.vbs file shows the problematic code, and bugSolution.vbs offers solutions and best practices for handling these scenarios.
